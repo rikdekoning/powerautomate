@@ -1,4 +1,4 @@
-# Power Automate - Switch to Classic Designer #
+# Power Automate - Modern to classic designer switcher browser extension #
 With this browser extension, any flow that will be opened (whether it be a flow run or the flow editor) in the modern designer will automatically revert back to the classic designer.
 
 The extension needs to be manually imported into your browser extension library before you can use it. To do so, follow the following steps:
