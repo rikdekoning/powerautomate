@@ -10,4 +10,4 @@ The extension needs to be manually imported into your browser extension library 
 6. Open the 'power-automate-switch-to-classic-designer' folder you extracted in step 2 and click 'Select folder'
 7. Your extension is now added and enabled
 
-Please note: sometimes the change doesn't happen instantly. A refresh of your browser will do the trick!
+**Please note: sometimes the change doesn't happen instantly. A refresh of your browser will do the trick!**
