@@ -1,5 +1,5 @@
 # Power Automate
-This repository contains the following Power Automate samples:
+This repository contains the following Power Automate samples and tools:
 - [Error handling template][1]
 - [Modern to classic designer switcher browser extension][2]
 
